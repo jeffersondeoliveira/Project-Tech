@@ -44,6 +44,7 @@ video {
     border-radius: 2rem;
     background-color: rgb(66, 66, 66);
     color: rgb(255, 255, 255);
+    font-size: 14px;
 }
 
 .search > div > button:hover {
@@ -52,4 +53,5 @@ video {
     color: rgb(12, 255, 12);
     transition: 0.4s;
     border: 2px solid white;
+    font-weight: 500;
 }
